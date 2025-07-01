@@ -1,0 +1,3 @@
+[submodule "codepulseUI"]
+	path = codepulseUI
+	url = https://github.com/bandaruaneesh548/CrudOperation.git
